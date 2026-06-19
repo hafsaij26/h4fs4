@@ -9,8 +9,6 @@ Code. Create. Innovate
 
 - 🌱 I’m currently learning **Python, AI, Visual programming**
 
-- 👯 I’m looking to collaborate on **WORDPRESS**
-
 - 🤝 I’m looking for help with **Csharp projects**
 
 - 📫 How to reach me **hafsaijaz0206@gmail.com**
