@@ -1,5 +1,3 @@
-# h4fs4
-Code. Create. Innovate
 <h1 align="center">Hi 👋, I'm HAFSA IJAZ</h1>
 <h3 align="center">A passionate frontend developer, backend developer and have keep interest in cybersecurity from Pakistan</h3>
 
@@ -8,6 +6,8 @@ Code. Create. Innovate
 - 🔭 I’m currently working on **AI MODELS**
 
 - 🌱 I’m currently learning **Python, AI, Visual programming**
+
+- 👯 I’m looking to collaborate on **WORDPRESS**
 
 - 🤝 I’m looking for help with **Csharp projects**
 
