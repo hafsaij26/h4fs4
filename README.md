@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsaij26&label=Profile%20views&color=0e75b6&style=flat" alt="hafsaij26" /> </p>
 
-- 🔭 I’m currently working on **AI MODELS**
+- 🔭 I’m currently working on **AI and ML MODELS**
 
 - 🌱 I’m currently learning **Python, AI, Visual programming**
 
